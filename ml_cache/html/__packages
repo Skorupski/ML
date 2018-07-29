@@ -1,0 +1,9 @@
+base
+lattice
+ggplot2
+caret
+gplots
+RANN
+dplyr
+lars
+randomForest
